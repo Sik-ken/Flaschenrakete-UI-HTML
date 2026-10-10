@@ -1,0 +1,21 @@
+BERECHNUNGSMODELL FLASCHENRAKETE - Android-Version 
+==================================================
+
+Datei:  Flaschenrakete-Android.html
+
+Auf dem Handy öffnen
+--------------------
+1. Nur diese EINE Datei aufs Handy bringen (Cloud, E-Mail, USB, Messenger ...).
+   Nicht entpacken, kein Ordner nötig.
+2. In der Dateien-App auf die Datei tippen und "Chrome" (oder einen anderen
+   Browser) zum Öffnen wählen. Bei "Öffnen mit" ggf. "Chrome" auswählen,
+   nicht den Text-Editor.
+
+Hilfe
+-----
+Der rote Knopf "?" oben neben "Design" öffnet das Benutzerhandbuch. "Schließen" führt zurück zum Programm, eingegebene Werte bleiben erhalten.
+
+Speichern / Laden
+-----------------
+* "Parameter speichern" und "CSV speichern" legen die Datei im Download-Ordner ab.
+* "Parameter laden" öffnet die Dateiauswahl des Handys.
